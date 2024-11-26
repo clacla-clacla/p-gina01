@@ -5,18 +5,18 @@
   }  
   header{
       padding: 20px;
-      border: 4px dashed #9d0f6e;
+      border: 4px dashed #d60e7f;
   }
       body{
       font-family: 'arial';
       background-color: #860b8f;
-      color:rgba(255, 0, 242, 0.541);
+      color:rgba(230, 77, 222, 0.387);
       margin:10px auto;
       text-align: center;
   }
   
   .menu{
-  color:rgb(156, 241, 213);
+  color:rgb(164, 19, 231);
   text-decoration: 0;
   font-size: 24px;
   margin: 5px;
@@ -30,7 +30,7 @@
   .box{
       width:300px;
       height:200px;
-      background-color: #2c56a0;
+      background-color: #ac1985;
       border-radius: 10px;
       margin:2%;
   }
@@ -49,11 +49,11 @@
   }
   
   #b{
-      background-color:rgb(226, 170, 170);
+      background-color:rgb(185, 113, 113);
       margin:0;
   }
   #tituloPrincipal{
-      color:rgb(3, 67, 170);
+      color:rgb(255, 0, 174);
       font-size: 40px;
       font-family:'Times New Roman';
       text-align: center;
@@ -61,11 +61,11 @@
   
   ul{
       font-size: 28px;
-      color: rgb(115, 11, 11);
+      color: rgba(31, 0, 116, 0.334);
   }
   ol{
       font-size: 28px;
-      color: rgb(63, 154, 119);
+      color: rgb(162, 84, 208);
   
   }
   p{
